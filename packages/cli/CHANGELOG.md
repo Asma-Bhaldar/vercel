@@ -1,5 +1,14 @@
 # vercel
 
+## 31.2.3
+
+### Patch Changes
+
+- Be looser in tests with mock server urls ([#10300](https://github.com/vercel/vercel/pull/10300))
+
+- Updated dependencies [[`08da4b9c9`](https://github.com/vercel/vercel/commit/08da4b9c923501d9d28eb6e3f26f4605fee83042)]:
+  - @vercel/remix-builder@1.9.2
+
 ## 31.2.2
 
 ### Patch Changes
